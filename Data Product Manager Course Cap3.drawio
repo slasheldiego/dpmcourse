@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T04:12:14.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="kVzUNwsg8gKvKzRrUXxz" version="14.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-06T04:13:36.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="me7qFBn5b9MioecfNq_k" version="14.8.3" type="github" pages="2">
   <diagram id="Rt6cVD4gQKkb6iqvewll" name="Exercise 1">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="mE09eDMAP6nFIeuhOrY3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mE09eDMAP6nFIeuhOrY3-1" source="mE09eDMAP6nFIeuhOrY3-2" target="mE09eDMAP6nFIeuhOrY3-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mE09eDMAP6nFIeuhOrY3-2" value="SimplyAccounting" style="rounded=0;whiteSpace=wrap;html=1;" parent="mE09eDMAP6nFIeuhOrY3-1" vertex="1">
+        <mxCell id="mE09eDMAP6nFIeuhOrY3-2" value="App" style="rounded=0;whiteSpace=wrap;html=1;" parent="mE09eDMAP6nFIeuhOrY3-1" vertex="1">
           <mxGeometry x="70" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mE09eDMAP6nFIeuhOrY3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mE09eDMAP6nFIeuhOrY3-1" source="mE09eDMAP6nFIeuhOrY3-3" target="mE09eDMAP6nFIeuhOrY3-9" edge="1">
@@ -106,6 +106,9 @@
           <mxGeometry x="280" y="380" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mE09eDMAP6nFIeuhOrY3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mE09eDMAP6nFIeuhOrY3-1" source="mE09eDMAP6nFIeuhOrY3-15" target="mE09eDMAP6nFIeuhOrY3-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mE09eDMAP6nFIeuhOrY3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mE09eDMAP6nFIeuhOrY3-1" source="mE09eDMAP6nFIeuhOrY3-15" target="mE09eDMAP6nFIeuhOrY3-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mE09eDMAP6nFIeuhOrY3-15" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" parent="mE09eDMAP6nFIeuhOrY3-1" vertex="1">
@@ -155,6 +158,9 @@
         </mxCell>
         <mxCell id="mE09eDMAP6nFIeuhOrY3-32" value="1. Scalability problems when dealing with masive IoT events&lt;br&gt;2. Enougth processing capabilities to merge IoT events with finantial and marketing data&lt;br&gt;3. IoT data validation before consume it&lt;br&gt;4. Data security because we are dealing with sensitive costumer data" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="mE09eDMAP6nFIeuhOrY3-1" vertex="1">
           <mxGeometry x="450" y="390" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="mE09eDMAP6nFIeuhOrY3-17" value="JustSale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mE09eDMAP6nFIeuhOrY3-1">
+          <mxGeometry x="790" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
